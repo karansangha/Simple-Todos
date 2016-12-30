@@ -1,2 +1,2 @@
-# Simple-Todos
+# Simple Todos
 First steps with meteor.
